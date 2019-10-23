@@ -14,7 +14,7 @@
   },
   "devDependencies": {
     "lodash": "^4.0.0",
-    "superagent": "^1.6.1"
+    "superagent": "^5.1.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
